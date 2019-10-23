@@ -1,4 +1,5 @@
 一个十三水自动出牌作业
+language:python
 
 运行环境：
 操作系统：windows; python版本：3.7以上或vs2017
